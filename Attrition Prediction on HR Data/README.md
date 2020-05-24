@@ -1,0 +1,1 @@
+Attrition prediction on table data from HR. Using Catboost classifier and XGBoost classifier after one hot encoding and PCA.
